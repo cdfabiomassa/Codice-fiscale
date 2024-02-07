@@ -4465,8 +4465,8 @@
     },
     "CF/1.0.0": {
       "type": "project",
-      "path": "../CF/CF.csproj",
-      "msbuildProject": "../CF/CF.csproj"
+      "path": "../../Desktop/Prove/CF/CF.csproj",
+      "msbuildProject": "../../Desktop/Prove/CF/CF.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4487,11 +4487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmassa\\Desktop\\Prove\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\fmassa\\wa\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\fmassa\\Desktop\\Prove\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\fmassa\\wa\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\fmassa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmassa\\Desktop\\Prove\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\fmassa\\wa\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

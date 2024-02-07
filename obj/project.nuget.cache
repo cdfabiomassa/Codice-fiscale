@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSq5iFtahLujMFRTifhnewK8OTV5iAVHBwkBz4yBF4OrVoEvMyUFMnIl3yLc1PF193qjmuS5fNdi4/cJNG90dg==",
+  "dgSpecHash": "thzlwlRlLjk+SQqE+K7fUAU2TmYhrz9obV+vMYJo1vXWjDJ0Nl0PIwD+CSlopXnxwzXldWbCD58lu6CbDHx99g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fmassa\\Desktop\\Prove\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\fmassa\\wa\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fmassa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\fmassa\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
