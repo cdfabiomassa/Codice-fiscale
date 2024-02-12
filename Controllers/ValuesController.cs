@@ -1,5 +1,6 @@
 ﻿using ConsoleApp4;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Logging;
 using WebApplication1.Models;
 
@@ -28,7 +29,7 @@ namespace WebApplication1.Controllers
         }
 
         // GET api/<ValuesController>/5
-        [HttpGet("{CodiceFiscale}")]
+        [HttpGet("{codiceFiscale}")]
         public IActionResult Get(string codiceFiscale)
         {
             DatiUtente utenteDaRicercare = _context.DatiUtentes.Find(codiceFiscale);
